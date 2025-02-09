@@ -17,7 +17,7 @@ Before running the installer, ensure that:
 ```bash
    sudo apt update
    sudo apt install python3 python3-pip
-```
+````
 **Permissions:** You must have write permissions to the /srv/ directory. If needed, use sudo to grant proper permissions:
 ´´´bash
 sudo mkdir -p /srv/homeassistant
